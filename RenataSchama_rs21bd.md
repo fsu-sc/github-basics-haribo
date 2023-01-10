@@ -26,9 +26,12 @@ This is an extremely important file of your project. Nevertheless, many people d
 
 ## What I have still to learn
 
-There a few issues that I am not entirely certain on. Especially related to collaboration in a team. Since I have not done anything on a team yet I am still a little confused to what is the best way of doing this. For example, for this specific case where we need to create a file and afterwards start a pull request to Dr. Zavala-Romero, I am creating a new branch for this `commit`. Should I have commited to the main branch first though? OR is it good practice, or even needed, to always breate a branch?
-Most of the issues I have are related to what's good practice when you collaborate with other people. Also, how to wirte a good, which a compelling, README.md for a project for example.  
+There a few issues that I am not entirely certain on. Especially related to collaboration in a team. Since I have not done anything on a team yet I am still a little confused to what is the best way of doing this. For example, for this specific case where we need to create a file and afterwards start a pull request to Dr. Zavala-Romero, I am creating a new branch for this `commit`. Should I have commited to the main branch first though? OR is it good practice, or even needed, to always create a `branch`?  
 
-Another aspect I have not yet figured out is how best to update my changes using either `Git`, or the `GitHub Desktop` or even `VScode` to the web. I have always changed the files on my computer than updated them using my webrowser and GitHubhe web on t, which is why I am very familiar with creating branches yet.  
+From what I have gathered so far if we were to work on a new project that was starting now with a team we should clone the project to our machines, create branches to edit what we see fit (remembering to update our branches when needed), than after we finish our work start a pull request before pushing the changes to the main branch. But there are so many ways of doing this that I am not sure which way is best. Should I puch the changes to `main` before approval? Does this depend on the team? If I am working on my computer should I use the branch and push the changes to the project so people see my branch and what I am doing?
 
-But practice makes perfect, so it will be good to use GitHub for our assignments this semester!  
+Most of the issues I have are related to what's good practice when you collaborate with other people. Also, how to write a good, which is, a compelling **README.md** for a project for example.  
+
+Another aspect I have not yet figured out is how best to update changes to my own projects using either `Git`, or the `GitHub Desktop` or even `VScode` to the web. I have always changed the files on my computer than updated them using my webrowser and GitHub on the web, which is why I am **not** very familiar with creating branches yet.  
+
+But practice makes perfect, so it will be good to use GitHub for our assignments this semester!  :tada:
